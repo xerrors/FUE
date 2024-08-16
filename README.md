@@ -1,2 +1,2 @@
-# FUE
-the code for "FUE: A Fast Sample-Efficient Unified Extraction Framework for Entity Relation Extraction"
+# FastERE
+the code for "FastERE: A Fast Framework for Entity Relation Extraction"
