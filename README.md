@@ -9,12 +9,6 @@ For Training
 python main.py
 ```
 
-For xJobs Training
-
-```bash
-python xjobs.py
-```
-
 ### Packages
 
 
